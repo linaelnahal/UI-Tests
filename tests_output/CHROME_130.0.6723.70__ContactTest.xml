@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="ContactTest"
+    errors="0" failures="1" hostname="" id="" package="ContactTest" skipped="0"
+    tests="1" time="0.1410" timestamp="">
+  
+    <testcase name="Contact Page Test" classname="ContactTest" time="0.06900" assertions="1">  <failure message="ContactPage.fillContactForm is not a function">TypeError: ContactPage.fillContactForm is not a function
+    at Contact Page Test (C:\Users\maria\OneDrive\Desktop\UITests\tests\ContactTest.js:13:17)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

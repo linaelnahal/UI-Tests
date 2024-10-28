@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "chromedriver": "^130.0.1",
+    "geckodriver": "^4.5.1",
+    "selenium-server": "^3.141.59"
+  }
+}
